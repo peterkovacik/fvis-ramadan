@@ -1,0 +1,85 @@
+.background-fvis::before {
+    background-image: url("/images/fvis-new-masjid.png");
+    background-color: #ccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.35;
+    content: "";
+}
+
+.background-fvis {
+    position: relative; 
+    
+}
+
+
+
+.paypal-donate-button {
+    display: block;
+    margin: 0 auto;
+    width: 125px;
+    padding: 50px 0;
+}
+
+
+
+.donate-button {
+    display: block;
+    margin: 0 auto;
+}
+
+.fvis-video {
+    width: 300px;
+    height: 225px;
+    display: block;
+    margin: 0 auto;
+  }
+
+.hadith {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+footer {
+    background-color: #02260F;
+    color: #eee;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.footer-content {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    font-size: .75em;
+}
+
+.footer-logo {
+    width: 200px;
+    height: 80px;
+    display: block;
+    margin: 0 auto;
+}
+
+@media (min-width: 720px) {
+   
+    .fvis-video {
+        width: 640px; 
+        height: 480px;
+    }
+
+    .hadith {
+        width: 520px;
+    }
+    .paypal-donate-button {
+        width: 165px;
+    }
+}
