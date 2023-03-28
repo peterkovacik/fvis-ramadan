@@ -53,13 +53,15 @@ footer {
     color: #eee;
     margin-top: 30px;
     width: 100%;
+    font-size: .85em;
 }
 
-.footer-content {
-    width: 200px;
+.footer-hr {
+    width: 50%;
+    max-width: 520px;
     display: block;
-    margin: 0 auto;
-    font-size: .75em;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .footer-logo {
