@@ -22,7 +22,7 @@
     display: block;
     margin: 0 auto;
     width: 125px;
-    padding: 20px 0 20px 0;
+    padding: 10px 0 10px 0;
 }
 
 
@@ -44,6 +44,10 @@
     width: 80%;
     display: block;
     margin: 0 auto;
+    padding: 15px 0;
+}
+
+.donate-text {
     padding-top: 30px;
 }
 
