@@ -24,8 +24,9 @@
     width: 125px;
     padding: 10px 0 25px 0;
 }
-
-
+.bold {
+    font-weight: bold;
+}
 
 
 .donate-button {
