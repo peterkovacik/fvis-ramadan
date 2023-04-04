@@ -18,14 +18,13 @@
     
 }
 
-
-
-.paypal-donate-button {
+.zelle-logo, .paypal-donate-button, .check-image {
     display: block;
     margin: 0 auto;
     width: 125px;
-    padding: 50px 0;
+    padding: 20px 0 20px 0;
 }
+
 
 
 
@@ -41,7 +40,7 @@
     margin: 0 auto;
   }
 
-.hadith {
+.body-text {
     width: 80%;
     display: block;
     margin: 0 auto;
@@ -78,8 +77,11 @@ footer {
         height: 360px;
     }
 
-    .hadith {
+    .body-text {
         width: 520px;
+    }
+    .zelle-logo {
+        width: 165px;
     }
     .paypal-donate-button {
         width: 165px;
